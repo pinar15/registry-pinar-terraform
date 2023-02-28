@@ -18,3 +18,4 @@ variable "artifact-config" {
 
 
 This is my module for google registry.
+ad
