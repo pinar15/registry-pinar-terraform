@@ -1,4 +1,4 @@
 provider "google" {
-  project = "glowing-market-377017"
+  project = "var.project_id"
   region  = "us-central1"
 }
